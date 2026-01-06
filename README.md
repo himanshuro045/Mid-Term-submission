@@ -5,7 +5,7 @@ Himanshu kumar(25b2110)- Fake News Detection using NLP(project)
 Hi! This is my work from the first 3 weeks.
 
 ## 📅 Week 1: NumPy Basics
-* I practiced using the NumPy library for math and arrays. 
+* I practiced using the NumPy and Pandas library provided in the additional_problems file and completed the following tasks for week1
  * File: `np_assignment_25b2110.ipynb`
 * File:`pandas_2_25b2110.ipynb`
 * File:`pandas_3_25b2110.ipynb`
