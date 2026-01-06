@@ -2,7 +2,7 @@
 Himanshu kumar(25b2110)- Fake News Detection using NLP(project)
 # My Fake News Detector Project
 
-Hi! This is my work from the first 3 weeks.
+*This is my work from the first 3 weeks.
 
 ## 📅 Week 1: NumPy Basics
 * I practiced using the NumPy and Pandas library provided in the additional_problems file and completed the following tasks for week1
@@ -12,7 +12,8 @@ Hi! This is my work from the first 3 weeks.
 * File:`pandas_4_25b2110.ipynb`
 
 ## 📅 Week 2: Pandas Data Handling
-* I worked with the Chipotle and User datasets to learn how to clean data tables.
+* I completed the crash course for Machine-Learning and understood the behaviour of a model.
+* In intro to NLP, learned to cleanup the text,concept of vectorisation,model training and evaluatiom
 
 
 ## 📅 Week 3: Project Start (NLP)
