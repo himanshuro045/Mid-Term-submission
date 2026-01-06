@@ -1,6 +1,6 @@
 # Mid-Term-submission
 Himanshu kumar(25b2110)- Fake News Detection using NLP(project)
-# My Fake News Detector Project
+# Fake News Detector using NLP
 
 *This is my work from the first 3 weeks.
 
