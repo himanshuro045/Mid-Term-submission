@@ -6,7 +6,7 @@ Hi! This is my work from the first 3 weeks.
 
 ## 📅 Week 1: NumPy Basics
 * I practiced using the NumPy library for math and arrays. 
- File: `np_assignment_25b2110.ipynb`
+  File: `np_assignment_25b2110.ipynb`
 * File:`pandas_2_25b2110.ipynb`
 * File:`pandas_3_25b2110.ipynb`
 * File:`pandas_4_25b2110.ipynb`
